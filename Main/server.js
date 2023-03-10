@@ -112,7 +112,7 @@ function mainQuestion() {
             if(err) throw err;
             console.log(`${response.newRole} successfully added to database!`);
             mainQuestion();
-          })
+          }])
         })
       })
   };
