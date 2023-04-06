@@ -28,11 +28,7 @@ This is a backend Mysql app that serves as a database for adding and modifying e
 
   ## Links 
  Repo: https://github.com/codelearning2021/mysql-employee-tracker
-  <img src="relative link here">
-  <img src="relative link here">
-
-### Short Demo Animation
-![Deployed Website](link here)
+  <img src="https://github.com/codelearning2021/mysql-employee-tracker/blob/main/Assets/employee%20sql%20tracker.gif">
 
   ## License 
   This project is licensed under MIT
